@@ -1,0 +1,40 @@
+header{
+    height: 20em;
+    background-image: url(/assets/img/portada.png);
+    border-style: groove;
+    margin-bottom: 10px;
+}
+
+.titulo1{
+padding-left: 20px;
+}
+    
+.subtitulo{
+    border-style:groove;
+    background-color: bisque;
+    text-align: center;
+}    
+img{
+    width: 12em;
+    border-radius: 30%;
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+    -ms-border-radius: 30%;
+    -o-border-radius: 30%;
+}
+
+.producto{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.textos{
+    padding: 3em;
+}
+footer{
+    text-align: center;
+    border-style: double;
+    background-color: bisque;
+}
