@@ -1,6 +1,6 @@
 header{
     height: 20em;
-    background-image: url(/assets/img/portada.png);
+    background-image: url(../img/portada.png);
     border-style: groove;
     margin-bottom: 10px;
 }
